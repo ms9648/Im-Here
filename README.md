@@ -25,7 +25,7 @@
 
  하루에 모각코가 끝이 났을 때 간단한 `markdown` 파일(*.md) 을 만들고, `Pull Request`를 보내시면 됩니다.
 
- `Pull Request`를 할 때에는 개인 `directory`를 만들어 주세요 !
+ 첫 `Pull Request`를 할 때에는 루트 디렉토리에 개인 `directory`를 만들어 주세요 !
 
  `directory`는 다음과 같은 규칙을 따릅니다.
 
