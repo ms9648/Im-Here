@@ -21,15 +21,15 @@
 
 ### 💁‍♂️ 출석체크는 어떻게 하나요?
 
- 먼저, 해당 레포지토리를 `fork` 를 합니다.
+ 먼저, 해당 Repository를 `fork` 를 합니다.
 
  하루에 모각코가 끝이 났을 때 간단한 `markdown` 파일(*.md) 을 만들고, `Pull Request`를 보내시면 됩니다.
 
  첫 `Pull Request`를 할 때에는 루트 디렉토리에 개인 `directory`를 만들어 주세요 !
 
- `directory`는 다음과 같은 규칙을 따릅니다.
+ 개인 `directory`는 다음과 같은 규칙을 따릅니다.
 
-- 이름은 자신의 `github id`로 통일해 주세요 !
+- 최상위 directory의 이름은 자신의 `github id`로 통일해 주세요 !
 - 내부 구성은 자율적(하위 `directory` 생성 등)으로 해주시면 됩니다.
 
  `Pull Request`에는 다음과 같은 사항이 들어있으면 더욱 좋습니다.
